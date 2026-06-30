@@ -143,4 +143,8 @@ total 392
 -rw-r--r--  1 hiroaki  staff      93  6月 30 10:34 myputenv.h
 -rw-r--r--  1 hiroaki  staff    1268  6月 30 10:34 README.md
 -rw-r--r--  1 hiroaki  staff  139098  6月 30 10:34 README.pdf
+
+----- 実行例6 -----
+% ./myenv apple
+apple: No such file or directory
 */
