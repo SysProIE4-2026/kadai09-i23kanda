@@ -50,7 +50,11 @@ TERM_PROGRAM_VERSION=464
 TERM_SESSION_ID=9503D378-15A3-4202-A4F0-1FED93151352
 USER=hiroaki
 SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.y7bEHo59XW/Listeners
-PATH=/opt/homebrew/opt/openjdk/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+PATH=/opt/homebrew/opt/openjdk/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks
+/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:
+/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run
+/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd
+/codex.system/bootstrap/usr/appleinternal/bin
 __CFBundleIdentifier=com.apple.Terminal
 PWD=/Users/hiroaki/Documents/システムプログラミング2/SysPro/kadai09-i23kanda
 XPC_FLAGS=0x0
@@ -64,7 +68,8 @@ OLDPWD=/Users/hiroaki/Documents/システムプログラミング2/SysP
 HOMEBREW_PREFIX=/opt/homebrew
 HOMEBREW_CELLAR=/opt/homebrew/Cellar
 HOMEBREW_REPOSITORY=/opt/homebrew
-FPATH=/opt/homebrew/share/zsh/site-functions:/usr/local/share/zsh/site-functions:/usr/share/zsh/site-functions:/usr/share/zsh/5.9/functions
+FPATH=/opt/homebrew/share/zsh/site-functions:/usr/local/share/zsh/site-functions:/usr/share/zsh/site-functions:
+/usr/share/zsh/5.9/functions
 INFOPATH=/opt/homebrew/share/info:
 CPPFLAGS=-I/opt/homebrew/opt/openjdk/include
 LANG=ja_JP.UTF-8
@@ -80,7 +85,11 @@ TERM_PROGRAM_VERSION=464
 TERM_SESSION_ID=9503D378-15A3-4202-A4F0-1FED93151352
 USER=hiroaki
 SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.y7bEHo59XW/Listeners
-PATH=/opt/homebrew/opt/openjdk/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin
+PATH=/opt/homebrew/opt/openjdk/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks
+/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:
+/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var
+/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd
+/codex.system/bootstrap/usr/appleinternal/bin
 __CFBundleIdentifier=com.apple.Terminal
 PWD=/Users/hiroaki/Documents/システムプログラミング2/SysPro/kadai09-i23kanda
 XPC_FLAGS=0x0
@@ -94,7 +103,8 @@ OLDPWD=/Users/hiroaki/Documents/システムプログラミング2/SysP
 HOMEBREW_PREFIX=/opt/homebrew
 HOMEBREW_CELLAR=/opt/homebrew/Cellar
 HOMEBREW_REPOSITORY=/opt/homebrew
-FPATH=/opt/homebrew/share/zsh/site-functions:/usr/local/share/zsh/site-functions:/usr/share/zsh/site-functions:/usr/share/zsh/5.9/functions
+FPATH=/opt/homebrew/share/zsh/site-functions:/usr/local/share/zsh/site-functions:/usr/share/zsh
+/site-functions:/usr/share/zsh/5.9/functions
 INFOPATH=/opt/homebrew/share/info:
 CPPFLAGS=-I/opt/homebrew/opt/openjdk/include
 LANG=ja_JP.UTF-8
